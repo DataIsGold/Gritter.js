@@ -9,6 +9,9 @@ A small growl-like notification plugin for jQuery
 
 ## Change Log
 
+### August 22, 2015
+* Forked this amazing JQuery library. Original Website has been down for awhile now. I do not want to see this disappear.
+
 ### Changes in 1.7.4 (February 24, 2012)
 
 * Fixing bug where click event was being bound multiple times on hover. The result was the beforeClose callback being called multiple times. Thanks for commit aossowski!
